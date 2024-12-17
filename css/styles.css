@@ -1,0 +1,135 @@
+body {
+   background-color: #fff;
+   color: #2E2F42;
+   font-family: Roboto, sans-serif;
+   font-size: 16px;
+   line-height: 24px;
+
+   ul {
+      list-style-type: none;
+   }
+}
+
+.logo {
+   font-family: Raleway;
+   font-size: 18px;
+   font-weight: 700;
+   line-height: 21px;
+   letter-spacing: 0.03em;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+}
+
+.text-blue {
+   color: #4D5AE5;
+}
+
+.navigation-list {
+   font-weight: 500;
+   letter-spacing: 0.02em;
+   text-align: left;
+   text-underline-position: from-font;
+   text-decoration-skip-ink: none;
+}
+
+.order-section {
+   background-color: #2E2F42;
+   width: 1440px;
+   height: 600px;
+
+
+
+   h1 {
+      color: #FFFFFF;
+      font-size: 56px;
+      line-height: 60px;
+      letter-spacing: 0.02em;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+
+   }
+
+   button {
+      color: #FFFFFF;
+      background-color: #4D5AE5;
+      width: 169px;
+      height: 56px;
+      font-size: 16px;
+      font-weight: 500;
+      letter-spacing: 0.04em;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+
+   }
+}
+
+.pros-section {
+   width: 1128px;
+
+   h3 {
+      font-size: 20px;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+   }
+}
+
+.team-section {
+   background-color: #F4F4FD;
+   width: 1440px;
+
+   h2 {
+      font-size: 36px;
+      line-height: 40px;
+      letter-spacing: 0.02em;
+      text-align: center;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+   }
+
+   img {
+      width: 264px;
+      height: 260px;
+   }
+
+   li {
+      background-color: #fff;
+      width: 264px;
+   }
+}
+
+.portfolio-section {
+   img {
+      width: 360px;
+      height: 300px;
+   }
+
+   h3 {
+
+      font-size: 20px;
+      font-weight: 500;
+      letter-spacing: 0.02em;
+      text-align: left;
+      text-underline-position: from-font;
+      text-decoration-skip-ink: none;
+   }
+}
+
+.page-footer {
+   background-color: #2E2F42;
+
+
+}
+
+.text-white {
+   color: #F4F4FD
+}
+
+.footer-text {
+   color: #F4F4FD
+}
